@@ -1,0 +1,12 @@
+baseURL = "http://riverlee2014.github.io/"
+languageCode = "en-us"
+title = "River"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/riverlee2014"}
+  ]
+
+[params]
+  description = "秋风江上作渔竿"
